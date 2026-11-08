@@ -1,0 +1,7 @@
+# 0-battle-ui | source_sha256=55721BE93CC8A5C3B361E4E8268BB031A4B7BC585A3D1394985CA59A6023158D | fixed-width 8x8 battle text
+[0000] @0x00ECB4 len=10 | SWORD-TYPE |  剑类型
+[0001] @0x00ECBE len=10 |   GUN-TYPE |  枪类型
+[0002] @0x00ECC8 len=10 |   BOW-TYPE |  弓类型
+[0003] @0x00ECD2 len=10 |    SP-TYPE |  SP类型
+[0004] @0x00EF5A len=2 | HP | HP
+[0005] @0x00EFFE len=2 | LV | LV

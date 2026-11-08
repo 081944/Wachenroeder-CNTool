@@ -1,0 +1,9 @@
+Code,Role,Meaning,StateBits,Confidence
+0000,newline,Reset horizontal position and advance vertical position by 18 pixels,,confirmed
+0001,page-advance,Advance dialogue state / page,4000,provisional
+0002,message-end,End current message and return to event flow,2000,confirmed
+0003,terminal-variant,End dialogue block with distinct event state,0800,partial
+0004,terminal-variant,End dialogue block with distinct event state,1400,partial
+0005,terminal-variant,End dialogue block with distinct event state,0400,partial
+0006,message-marker,Increment message counter then store one raw marker word,,confirmed
+0007,message-marker-alternate,Store one raw marker word without incrementing message counter,,confirmed
